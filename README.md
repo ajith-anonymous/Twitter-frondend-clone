@@ -1,2 +1,2 @@
-# Twitter-frondend-clone
+# Twitter-clone
 Simple frondend clone of twitter 
